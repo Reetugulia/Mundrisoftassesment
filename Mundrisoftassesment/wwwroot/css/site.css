@@ -1,0 +1,37 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.navbar, .border-top {
+    background: radial-gradient(#5DADE2, #5DADE2);
+}
+.container {
+    background-image: "~/Images/desktop-wallpaper-blue-geometric-technology-honeycomb-background-blue-technology-blue-black-background-for-dark-blue-geometric.jpg"
+}
+
+a {
+    font-size: 17px;
+    font-weight: bold;
+}
+h4{
+    text-align:center;
+}
+h1{
+    text-align:center;
+    
+       
+}
